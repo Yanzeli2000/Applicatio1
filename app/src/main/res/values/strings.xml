@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Applicatio1</string>
+    <string name="app_name">Display Input Application</string>
     <string name="click_button">Click</string>
     <string name="text_place_holder">Input String Value</string>
 </resources>

@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
             var _user_name = binding.editText.text
             //Call Toast to create text on the screen (target, test, how long to lasting),
             // and then display it.
-            Toast.makeText(this,"Hello"+_user_name,Toast.LENGTH_LONG).show()
+            Toast.makeText(this,"Hello $_user_name",Toast.LENGTH_LONG).show()
         }
     }
 }
